@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Ranit  
 
-I'm a **junior MERN stack web developer** passionate about building **scalable, maintainable, and high-performance** web applications. I love solving complex technical problems and continuously exploring new technologies.  
+I'm a **MERN stack web developer** passionate about building **scalable, maintainable, and high-performance** web applications. I love solving complex technical problems and continuously exploring new technologies.  
 
 ## 🚀 What I Do  
 
