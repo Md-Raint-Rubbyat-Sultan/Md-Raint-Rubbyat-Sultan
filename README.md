@@ -11,6 +11,12 @@ I enjoy solving complex problems, optimizing user experiences, and developing ap
 📧 **Email:** mdranitrubbyatsultan@gmail.com  
 📞 **WhatsApp & Telegram:** +880 1603-266-478
 
+## Social
+[in] [**LinkedIn**](https://www.linkedin.com/in/ranit-rubbyat-sultan-khan)
+
+## Portfolio
+🌐 [**Portfolio**](https://portfolio-livid-chi-73racabqjo.vercel.app)
+
 ## 🚀 What I Do  
 
 ### 🖥️ Frontend Development  
