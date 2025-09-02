@@ -24,11 +24,12 @@ I enjoy solving complex problems, optimizing user experiences, and developing ap
 - **React Router DOM** – For efficient client-side routing.  
 - **Axios & TanStack Query** – For API handling and data fetching.  
 - **TypeScript** – For writing safer and scalable frontend code.  
+- **Redux** – For state management and scalable frontend code.  
 
 ### 🏗️ Backend Development  
 - **Node.js & Express.js** – For building powerful and scalable backend APIs.  
 - **MongoDB & Mongoose** – For flexible NoSQL database management.  
-- **SQL / MySQL** – For structured relational database handling.  
+- **SQL / MySQL / Postgres** – For structured relational database handling.  
 
 ### 🔐 Authentication & Security  
 - **Firebase Authentication** – For easy and secure user authentication.  
