@@ -6,6 +6,11 @@ With strong expertise in **React, TypeScript, Node.js, and Express**, I focus on
 
 I enjoy solving complex problems, optimizing user experiences, and developing applications that balance <i>efficiency</i> with <i>aesthetics</i>.
 
+## Contact Me
+
+📧 **Email:** mdranitrubbyatsultan@gmail.com  
+📞 **WhatsApp & Telegram:** <a href="tel:+880 1603-266-478">+880 1603-266-478</a>
+
 ## 🚀 What I Do  
 
 ### 🖥️ Frontend Development  
@@ -31,6 +36,4 @@ I love developing efficient web applications, optimizing performance, and tackli
 
 ## ♠️ Beyond Coding  
 I'm always keen on **exploring new technologies** and even delve into **mathematical theories** as a side hobby.  
-
-📧 **Email:** mdranitrubbyatsultan@gmail.com  
-📞 **WhatsApp & Telegram:** 01831495895  
+ 
