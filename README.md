@@ -5,7 +5,7 @@ I'm a passionate Full-Stack Web Developer skilled in building modern, scalable, 
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/md_ranit_rubbayt_sultan) **|** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranit-rubbyat-sultan-khan) **|** [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdranitrubbyatsultan@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/md_ranit_rubbayt_sultan) **|** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranit-rubbyat-sultan-khan) **|** [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdranitrubbyatsultan@gmail.com) **|** [![Whats App | Telegram](https://img.shields.io/badge/Email-D14836?Whats%20App%20|%20Telegram)](tel:+880 1603-266-478)
 
 ## Portfolio
 🌐 [**Portfolio**](https://portfolio-livid-chi-73racabqjo.vercel.app)
