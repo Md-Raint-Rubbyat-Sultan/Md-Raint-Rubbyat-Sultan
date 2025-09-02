@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Ranit  
----
+
 I'm a passionate **Full-Stack Web Developer** skilled in building **modern, scalable, maintainable, and high-performance** web applications.
 
 With strong expertise in **React, TypeScript, Node.js, and Express**, I focus on writing clean, functional code and crafting razor-sharp, reusable UI components that deliver both performance and design excellence.
