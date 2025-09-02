@@ -9,7 +9,7 @@ I enjoy solving complex problems, optimizing user experiences, and developing ap
 ## Contact Me
 
 📧 **Email:** mdranitrubbyatsultan@gmail.com  
-📞 **WhatsApp & Telegram:** <a href="tel:+880 1603-266-478">+880 1603-266-478</a>
+📞 **WhatsApp & Telegram:** +880 1603-266-478
 
 ## 🚀 What I Do  
 
