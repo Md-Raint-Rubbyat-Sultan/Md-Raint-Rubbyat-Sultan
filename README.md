@@ -1,5 +1,7 @@
 # 👋 Hello! I'm Ranit  
 
+![GitHub_Banner](https://github.com/user-attachments/assets/5d2d6876-4427-4fc2-84b0-12ba45d3c9d6)
+
 # 💫 About Me:
 I'm a passionate Full-Stack Web Developer skilled in building modern, scalable, maintainable, and high-performance web applications.<br><br>With strong expertise in React, TypeScript, Node.js, and Express, I focus on writing clean, functional code and crafting razor-sharp, reusable UI components that deliver both performance and design excellence.<br><br>I enjoy solving complex problems, optimizing user experiences, and developing applications that balance efficiency with aesthetics.
 
